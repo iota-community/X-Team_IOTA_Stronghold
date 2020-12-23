@@ -51,7 +51,7 @@ We need to ensure Stronghold and Crypto build everywhere, and to this are reques
 ### Recipes for using Strongholds
 
 We would like to collect common recipes for doing things with a Stronghold, such as 
-- [x] **Insert goal name and link to issue. e.g.** ["Stronghold Recipes Discussion](https://github.com/iotaledger/stronghold.rs/discussions/102)
+- [x] ["Stronghold Recipes Discussion](https://github.com/iotaledger/stronghold.rs/discussions/102)
 
 ## 🤔 How Can You Get Involved?
 
