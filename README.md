@@ -46,12 +46,12 @@ We are collecting Frequently Asked Questions, and want to provide answers to the
 
 We need to ensure Stronghold and Crypto build everywhere, and to this are requesting your support in regularly verifying th compilation and benchmarking of Stronghold for different platforms.
 
-- [x] [“Verified Hardware Builds and Benches Discussion"](https://github.com/iotaledger/stronghold.rs/discussions/101)
+- [x] [Verified Hardware Builds and Benches Discussion](https://github.com/iotaledger/stronghold.rs/discussions/101)
 
 ### Recipes for using Strongholds
 
 We would like to collect common recipes for doing things with a Stronghold, such as 
-- [x] ["Stronghold Recipes Discussion](https://github.com/iotaledger/stronghold.rs/discussions/102)
+- [x] [Stronghold Recipes Discussion](https://github.com/iotaledger/stronghold.rs/discussions/102)
 
 ## 🤔 How Can You Get Involved?
 
