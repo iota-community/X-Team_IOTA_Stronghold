@@ -50,7 +50,7 @@ We need to ensure Stronghold and Crypto build everywhere, and to this are reques
 
 ### Recipes for using Strongholds
 
-We would like to collect common recipes for doing things with a Stronghold, such as 
+We would like to collect common recipes for doing things with a Stronghold, such as properly deriving passwords for a password manager, using in a multisig environment, etc.
 - [x] [Stronghold Recipes Discussion](https://github.com/iotaledger/stronghold.rs/discussions/102)
 
 ## 🤔 How Can You Get Involved?
